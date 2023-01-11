@@ -25,4 +25,4 @@
 
 ## 音乐
 
- [Get started | Learning Music (ableton.com)](https://learningmusic.ableton.com/)
+ [Get started | Learning Music (ableton.com)](https://learningmusic.ableton.com/)：电子音乐入门
