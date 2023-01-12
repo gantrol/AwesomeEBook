@@ -21,7 +21,7 @@
 
 【中文】[装机教程：全网最好，没有之一_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BG4y137mG/?spm_id_from=..top_right_bar_window_default_collection.content.click)：可用来了解计算机硬件。2022年全网最强装机视频，讲解极其细致
 
-【收费】[Operating Systems: Virtualization, Concurrency & Persistence - Learn Interactively (educative.io)](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)：由广受好评的操作系统课本改写，附上可交互的编程环境。原课本有[分章节的pdf]([New tab (ostep.org)](http://ostep.org/))，作者也曾公开了中文翻译版pdf
+【收费】[Operating Systems: Virtualization, Concurrency & Persistence - Learn Interactively (educative.io)](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)：由广受好评的操作系统课本改写，附上可交互的编程环境。原课本有[分章节的pdf](http://ostep.org/)，作者也曾公开了中文翻译版pdf
 
 [Julia: A Fresh Approach to Computing — Pluto.jl (mit.edu)](https://computationalthinking.mit.edu/Fall22/)：借Julia讲解计算思维：计算机科学、数学与应用
 
