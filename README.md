@@ -51,4 +51,4 @@
 
 [Explained Visually (setosa.io)](https://setosa.io/ev/)：一系列可视化博文，主要讲述了多个数学观念，2015年断更
 
-注：跟某种特定框架绑定的教程，一般不收录，详情见issue #1
+> 注：跟某种特定框架绑定的教程，一般不收录，详情见[issue#1](https://github.com/gantrol/AwesomeEBook/issues)
