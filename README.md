@@ -27,7 +27,7 @@
 
 [🙂 Y Combinator for Non-programmers (chibicode.com)](https://ycombinator.chibicode.com/)：面向非程序员的 Y Combinator
 
-[Algorithm Visualizer (algorithm-visualizer.org)](https://algorithm-visualizer.org/)
+[Algorithm Visualizer (algorithm-visualizer.org)](https://algorithm-visualizer.org/)：部分常用算法的可视化。有Java、JS、C++实现
 
 [D3 Graph Theory - Interactive Graph Theory Tutorials (d3gt.com)](https://d3gt.com/index.html)：讲解图论基础
 
@@ -45,10 +45,6 @@
 
 【中文】[开始 | Learning Synths (ableton.com)](https://learningsynths.ableton.com/zh-Hans/get-started) 电子音乐入门
 
-## 其他
+---
 
-[Archives - Bartosz Ciechanowski](https://ciechanow.ski/archives/)：一系列可视化博文，无特定主题
-
-[Explained Visually (setosa.io)](https://setosa.io/ev/)：一系列可视化博文，主要讲述了多个数学观念，2015年断更
-
-> 注：跟某种特定框架绑定的教程，一般不收录，详情见[issue#1](https://github.com/gantrol/AwesomeEBook/issues)
+> 注：部分教程虽然也是可视化或交互式的，但是没有选择收录，详情见[issue#1](https://github.com/gantrol/AwesomeEBook/issues/1)
