@@ -42,6 +42,10 @@
 
 【中文】[Learn Git Branching](https://learngitbranching.js.org/)：可交互的Git学习教程，侧重于Git分支相关概念
 
+## 科学
+
+- [元素周期表](https://periodic-table-pro.netlify.app/)
+
 ## 音乐
 
 【中文】[开始 | Learning Synths (ableton.com)](https://learningsynths.ableton.com/zh-Hans/get-started) 电子音乐入门
