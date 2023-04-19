@@ -16,7 +16,10 @@
 - 线性代数的本质：[中文B站链接](https://www.bilibili.com/video/BV1ys411472E)
 
 [Immersive Math](http://immersivemath.com/ila/index.html)：“沉浸式”线性代数课本，配有可交互动画
+
 [The Evolution of Trust (ncase.me)](https://ncase.me/trust/)：博弈论可交互教程（game theory）
+
+[非欧几何](https://www.cs.unm.edu/~joel/NonEuclid/NonEuclid.html)
 
 ## 计算机
 
