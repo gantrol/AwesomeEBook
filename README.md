@@ -45,6 +45,8 @@
 
 【中文】[Learn Git Branching](https://learngitbranching.js.org/)：可交互的Git学习教程，侧重于Git分支相关概念
 
+DNS。怎么学习困难的知识——以十数年DNS学习为例。[Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/) ，配有网站[mess with DNS](https://messwithdns.net/)
+
 ## 科学
 
 - [元素周期表](https://periodic-table-pro.netlify.app/)
