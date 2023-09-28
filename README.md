@@ -37,8 +37,6 @@
 
 [D3 Graph Theory - Interactive Graph Theory Tutorials (d3gt.com)](https://d3gt.com/index.html)：讲解图论基础
 
-【收费】【中文】[一个人工智能的诞生 基本操作 可以玩的大学课程 (jibencaozuo.com)](https://jibencaozuo.com/zh-Hans/videoSeries/1/episode/0)
-
 [Neural Networks from Scratch - an interactive guide (aegeorge42.github.io)](https://aegeorge42.github.io/)
 
 [RE for Beginners | Reverse Engineering](https://www.begin.re/)：逆向工程入门
@@ -56,6 +54,11 @@ DNS。怎么学习困难的知识——以十数年DNS学习为例。[Learning D
 ## 音乐
 
 【中文】[开始 | Learning Synths (ableton.com)](https://learningsynths.ableton.com/zh-Hans/get-started) 电子音乐入门
+
+## 设计
+
+【中文】[52 design principle](https://rpdc.xiaohongshu.com/52-design-principles)
+
 
 ---
 
