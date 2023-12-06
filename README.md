@@ -59,6 +59,10 @@ DNS。怎么学习困难的知识——以十数年DNS学习为例。[Learning D
 
 【中文】[52 design principle](https://rpdc.xiaohongshu.com/52-design-principles)
 
+## 其他
+
+穷理查宝典[Poor Charlies Almanack](https://www.stripe.press/poor-charlies-almanack)
+
 
 ---
 
