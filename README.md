@@ -29,6 +29,8 @@
 
 【收费】[Operating Systems: Virtualization, Concurrency & Persistence - Learn Interactively (educative.io)](https://www.educative.io/courses/operating-systems-virtualization-concurrency-persistence)：由广受好评的操作系统课本改写，附上可交互的编程环境。原课本有[分章节的pdf](http://ostep.org/)，作者也曾公开了中文翻译版pdf
 
+[可视化LLM原理展示（AI大模型、大语言模型）](https://bbycroft.net/llm)
+
 [Julia: A Fresh Approach to Computing — Pluto.jl (mit.edu)](https://computationalthinking.mit.edu/Fall22/)：借Julia讲解计算思维：计算机科学、数学与应用
 
 [🙂 Y Combinator for Non-programmers (chibicode.com)](https://ycombinator.chibicode.com/)：面向非程序员的 Y Combinator
