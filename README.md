@@ -35,7 +35,10 @@
 
 [🙂 Y Combinator for Non-programmers (chibicode.com)](https://ycombinator.chibicode.com/)：面向非程序员的 Y Combinator
 
-[Algorithm Visualizer (algorithm-visualizer.org)](https://algorithm-visualizer.org/)：部分常用算法的可视化。有Java、JS、C++实现
+- 算法可视化
+  - [Algorithm Visualizer (algorithm-visualizer.org)](https://algorithm-visualizer.org/)：部分常用算法的可视化。有Java、JS、C++实现
+  - 【中文】[Hello 算法](https://github.com/krahets/hello-algo)
+  - 【中文】[algorithm-anime](https://github.com/syhily/algorithm-anime)
 
 [D3 Graph Theory - Interactive Graph Theory Tutorials (d3gt.com)](https://d3gt.com/index.html)：讲解图论基础
 
