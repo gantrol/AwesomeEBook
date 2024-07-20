@@ -42,7 +42,10 @@
 
 [D3 Graph Theory - Interactive Graph Theory Tutorials (d3gt.com)](https://d3gt.com/index.html)：讲解图论基础
 
-[Neural Networks from Scratch - an interactive guide (aegeorge42.github.io)](https://aegeorge42.github.io/)
+AI:
+- [Neural Networks from Scratch - an interactive guide (aegeorge42.github.io)](https://aegeorge42.github.io/)
+- [A Neural Network Playground (tensorflow.org)](https://playground.tensorflow.org/)
+- [ConvNetJS: Deep Learning in your browser (stanford.edu)](https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 [RE for Beginners | Reverse Engineering](https://www.begin.re/)：逆向工程入门
 
