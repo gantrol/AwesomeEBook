@@ -13,7 +13,7 @@
 【中文】[3Blue1Brown全系列](https://www.3blue1brown.com/)视频，特别推荐其中的：
 
 - 微积分的本质：[中文B站链接](https://www.bilibili.com/video/BV1qW411N7FU )
-- 线性代数的本质：中文B站链接：https://www.bilibili.com/video/BV1ys411472E
+- 线性代数的本质：[中文B站链接](https://www.bilibili.com/video/BV1ys411472E )
 
 【中文】[【火柴人 VS 数学(Math)】]( https://www.bilibili.com/video/BV1ph4y1g75E)
 
